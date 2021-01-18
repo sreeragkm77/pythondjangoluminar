@@ -7,3 +7,10 @@ lst1.append(num0)
 lst1.append(num1)
 lst1.append(num2)
 print(lst1)
+#or
+print("-----------")
+out=list()
+total=sum(lst)
+for num in lst:
+    out.append(total-num)
+print(out)
