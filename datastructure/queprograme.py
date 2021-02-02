@@ -23,11 +23,11 @@ def display():
     for i in range(0,size):
         print(que[i])
 while(n!=0):
-    option=int(input("enter option 1)insertion 2)deletion 3)display"))
+    option=int(input("enter option 1)insertion 2)deletion 3)display 4)press any num to exit"))
     if option==1:
         insertion()
     elif option==2:
         deletion()
     elif option==3:
         display()
-n=int(input("do you want to continue press 0 to exit"))
+    n = int(input("do you want to continue press 0 to exit"))
