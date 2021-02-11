@@ -15,3 +15,4 @@ lst=[
 from functools import reduce
 point_high=reduce(lambda p1,p2:p1 if p1>p2 else p2,list(map(lambda team:team["pts"],lst)))
 print(point_high)
+print(lst[0]["team"])
