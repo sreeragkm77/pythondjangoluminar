@@ -1,0 +1,18 @@
+.top{
+    background-color: aqua;
+    height: 100px;
+    width: 60%;
+    margin-left: 10%;
+    padding-top: 5px;
+    padding-left: 70px;
+}
+.bottom{
+    margin-top: 30%;
+    margin-left: 10%;
+    background-color: cadetblue;
+    width: 60%;
+    height: 100px;
+    padding-left: 70px;
+    font-size: 50px;
+    font-weight: 650;
+}

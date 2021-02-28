@@ -1,0 +1,30 @@
+td{
+    height: 300px;
+    width: 200px;
+    margin-left: 1%;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+table{
+   /* margin-top: 60px;
+    margin-left: 200px;*/
+    margin: auto;
+}
+
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+
+}
+.green{
+    background-color: green;
+}
+.violet{
+    background-color: blueviolet;
+}
+

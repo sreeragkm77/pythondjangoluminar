@@ -1,0 +1,38 @@
+body{
+    background-image: url("foodimage.jpg");
+}
+h1{
+    color: beige;
+    text-align: center;
+}
+#biryani{
+    background-image: url("biryani.jpg");
+    width: 30%;
+    border-style: solid;
+    border-color: bisque;
+    border-width: 1px;
+}
+#chickencurry{
+    background-image: url("chickencurry.jpg");
+    width: 30%;
+    border-style: solid;
+}
+#keralaparotta{
+    background-image: url("Kerala-Parotta-.jpg");
+    width: 30%;
+    border-style: solid;
+    border-color: bisque;
+    border-width: 1px;
+}
+.fr{
+    color:rgb(15, 8, 8);
+}
+.frl{
+    color: rgb(4, 2, 14);
+}
+#kp{
+    color: azure;
+}
+#kph{
+    color: azure;
+}

@@ -5,5 +5,5 @@ lst1=[[12,12],[30,42],[50,40]]
 op=[num for ls in lst1 for num in ls]
 print(op)
 lst2=[2,3,5,6,8,4,9]
-even=[num for num in lst2]
+even=[num for num in lst2 if num%2==0]
 print(even)

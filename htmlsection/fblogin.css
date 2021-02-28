@@ -1,0 +1,23 @@
+h1{
+    color: rgb(18, 135, 231);
+}
+#login{
+    background-color: rgb(19, 129, 202);
+    color: rgb(245, 244, 243);
+    border-style: hidden;
+}
+body{
+    background-color: rgb(211, 211, 202);
+}
+#createaccount{
+    background-color: rgb(98, 173, 23);
+    color: rgb(241, 241, 240);
+    border-style: hidden;
+}
+#tb{
+    background-color: rgb(240, 238, 232);
+    border-style: solid;
+    border-color: rgb(192, 187, 181);
+    border-width: 1px;
+    width: 35%;
+}

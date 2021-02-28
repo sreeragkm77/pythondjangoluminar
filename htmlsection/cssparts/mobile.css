@@ -1,0 +1,26 @@
+body{
+    background-color: aliceblue;
+    background-image: url("maxresdefault.jpg");
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+#nokia{
+    background-color: burlywood;
+    border-style: solid;
+    border-color: rgb(8, 6, 6);
+    border-width: 1px;
+    width:30%;
+    text-align: center;
+}
+.first{
+    background-color: chartreuse;
+    width:30%;
+}
+#c3h{
+    color: darkblue;
+    text-align: center;
+}
+#mi{text-align: center;}
+#sm{text-align: center;}
